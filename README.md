@@ -1,4 +1,5 @@
 # Planetarity-v1.2
+Author: Max Botvinev
 <br>
 <br>
 - All main resources and Code are in the Assets/MaxBotvinev directory. 
