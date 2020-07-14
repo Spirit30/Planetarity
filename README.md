@@ -2,10 +2,7 @@
 Author: Max Botvinev
 <br>
 <br>
-- All main resources and Code are in the Assets/MaxBotvinev directory. 
-<br> 
-<br> 
-- Test took around 1 working day.
+All main resources and Code are in the Assets/MaxBotvinev directory.
 <br>
 <br>
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=KUx5P-5hJ3M
